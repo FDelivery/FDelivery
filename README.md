@@ -1,5 +1,7 @@
 ### Hi there 👋
 https://github.com/FDelivery/FDelivery/blob/main/applicationDemoVideo.mp4
+/assets/applicationDemoVideo.mp4
+
 <!--
 **FDelivery/FDelivery** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
